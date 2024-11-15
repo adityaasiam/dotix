@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "978486244043",
+    "project_id": "dotix-1d518",
+    "storage_bucket": "dotix-1d518.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978486244043:android:36fb87be4ccc708e80214e",
+        "android_client_info": {
+          "package_name": "com.app.rewarddaddy.myreward.dotix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978486244043-9tm2dec4tsgqmvnj3d966ju0louslu2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd-Z9zR25ddXZxihbwU38MEAvxlldECWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978486244043-9tm2dec4tsgqmvnj3d966ju0louslu2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978486244043-bb314q8b0q9t3g6lpqe6rvbmrs2j6d7i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.rewarddaddy.myreward.dotix5"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978486244043:android:c66b0716d3a622ae80214e",
+        "android_client_info": {
+          "package_name": "com.app.rewarddaddy.myreward.dotix5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978486244043-9tm2dec4tsgqmvnj3d966ju0louslu2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd-Z9zR25ddXZxihbwU38MEAvxlldECWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978486244043-9tm2dec4tsgqmvnj3d966ju0louslu2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978486244043-bb314q8b0q9t3g6lpqe6rvbmrs2j6d7i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.rewarddaddy.myreward.dotix5"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978486244043:android:f63060e40e7f347180214e",
+        "android_client_info": {
+          "package_name": "com.app.rewarddaddy.myreward.untitled2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978486244043-9tm2dec4tsgqmvnj3d966ju0louslu2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd-Z9zR25ddXZxihbwU38MEAvxlldECWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978486244043-9tm2dec4tsgqmvnj3d966ju0louslu2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978486244043-bb314q8b0q9t3g6lpqe6rvbmrs2j6d7i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.rewarddaddy.myreward.dotix5"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
